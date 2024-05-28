@@ -5,7 +5,7 @@ To do list:
     -Spherical Bearings on Z
     -complete tool changing system
     
-Build clicky clacky
+Build clicky clack
 
      -print parts
      -build frame (parts in)
