@@ -1,10 +1,9 @@
 To do list: 
-
   -Change accent color
   -Change BTT Pi for a RPi4b
   -Spherical Bearings on Z
   -complete tool changing system
--  Build clicky clacky
+- Build clicky clacky
     -print parts
     -build frame (parts in)
     -glass (ordered)
